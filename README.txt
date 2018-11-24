@@ -1,4 +1,4 @@
-# MyProject
+# ChiouPythonProject
 an example
 http://dokelung-blog.logdown.com/posts/238050-collation-and-publishing-of-the-project-from-github-to-pypi
 
